@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pdm</string>
+    <string name="valor_inicial">Valor Inicial</string>
+    <string name="valor_inicial2">Valor em R$ Ex: 1700.00</string>
+    <string name="aplica_mensal">Aplicação Mensal</string>
+    <string name="tempo_aplica">Tempo de Aplicação</string>
+    <string name="tempo_aplica2">Em meses</string>
+    <string name="taxa">Taxa</string>
+    <string name="calc">Calcular</string>
+    <string name="poupanca">Poupança</string>
+
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustível</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

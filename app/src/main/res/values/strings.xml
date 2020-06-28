@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pdm</string>
+    <string name="botao_login" translatable="false">Login</string>
+    <string name="botao1" translatable="false">Click me!</string>
+    <string name="valor_inicial">Initial Value</string>
+    <string name="valor_inicial2">Value in USD Ex. 1700.00</string>
+    <string name="aplica_mensal">Monthly Payment</string>
+    <string name="aplica_mensal2" translatable="false">Ex: 100.00</string>
+    <string name="tempo_aplica">Installment</string>
+    <string name="tempo_aplica2">Months</string>
+    <string name="taxa2" translatable="false">Ex: 0.02</string>
+    <string name="taxa">Rate</string>
+    <string name="calc">Calc</string>
+    <string name="poupanca" translatable="false">Savings</string>
+    <string name="consumo" translatable="false">Consumo Total R$</string>
+    <string name="couvert" translatable="false">Couvert artistico R$</string>
+    <string name="dividir" translatable="false">Dividir conta por</string>
+    <string name="calcular" translatable="false">Calcular conta final</string>
+    <string name="taxa4" translatable="false">Taxa serviço (10%) R$</string>
+    <string name="total" translatable="false">Conta Total R$</string>
+    <string name="pessoa" translatable="false">Valor por pessoa R$</string>
+    <string name="cat_str" translatable="false">Categoria</string>
+    <string name="contato" translatable="false"><u>Contato:</u></string>
+
+    <string-array name="categoria_gasto">
+        <item>Alimentação</item>
+        <item>Combustível</item>
+        <item>Transporte</item>
+        <item>Hospedagem</item>
+        <item>Outros</item>
+    </string-array>
+</resources>
